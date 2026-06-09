@@ -12,4 +12,4 @@ Hire or Be Hired: Whether you are looking to hire or looking to be hired this is
 ## When
 Every 2nd Tuesday of the month. Call link: [Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxN)
 
-[Add to calendar](calendar.ics)
+<meta property="og:image" content="https://jetson-ai-lab.github.io/office-hours/assets/icon.png"> [Add to calendar](calendar.ics)
