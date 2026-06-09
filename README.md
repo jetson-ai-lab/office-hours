@@ -14,6 +14,10 @@ Brainstorm: Discuss the future of edge AI, computer vision, and agent deployment
 Hire or Be Hired: Whether you are looking to hire or looking to be hired this is the hub from aspiring physical AI or embodied AI start their career journey
 
 ## When
-Every 2nd Tuesday of the month. Call link: [Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxN)
+Every 2nd Tuesday of the month.
+Times: 9:00 AM PST / 12:00 PM EST / 5:00 PM GMT
+ Call link: [Teams meeting](https://teams.microsoft.com/l/meetup-join/19%3Ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxN)
 
 <meta property="og:image" content="https://jetson-ai-lab.github.io/office-hours/assets/icon.png"> [Add to calendar](calendar.ics)
+
+[Jetson AI Lab Nvidia site](https://www.jetson-ai-lab.com/research/)
