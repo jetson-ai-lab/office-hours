@@ -10,5 +10,6 @@ Brainstorm: Discuss the future of edge AI, computer vision, and agent deployment
 Hire or Be Hired: Whether you are looking to hire or looking to be hired this is the hub from aspiring physical AI or embodied AI start their career journey
 
 ## When
-Every 2nd Tuesday of the month. Call link: https://teams.microsoft.com/l/meetup-join/19%3Ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxN
+Every 2nd Tuesday of the month. Call link: https://teams.microsoft.com/l/meetup-join/19%3Ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxN  
+
 [Add to calendar](calendar.ics)
