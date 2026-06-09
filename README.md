@@ -11,3 +11,4 @@ Hire or Be Hired: Whether you are looking to hire or looking to be hired this is
 
 ## When
 Every 2nd Tuesday of the month. Call link: https://teams.microsoft.com/l/meetup-join/19%3Ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxN
+[Add to calendar](calendar.ics)
