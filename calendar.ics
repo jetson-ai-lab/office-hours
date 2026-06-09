@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jetson AI Lab//Community Call//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jetson-ai-lab-community-call-20260610-1800@vc.nvidia.com
+DTSTAMP:20260609T150000Z
+DTSTART;TZID=Asia/Jerusalem:20260610T180000
+DTEND;TZID=Asia/Jerusalem:20260610T190000
+SUMMARY:Jetson AI Lab Research Group Community Call
+DESCRIPTION:Dear Community Members,\n\nWe are pleased to announce the resumption of the Jetson AI Lab Research Group Community calls.\n\nThe primary objective of these calls remains consistent with our past meetings. We aim to discuss emerging trends, share insights on exciting projects undertaken by members of this group, address any issues or roadblocks, and explore new frameworks and libraries, among other topics.\n\nWe will share more details during the call.\n\nWe look forward to reconnecting with all of you.\n\nBest regards,\nJetson AI Lab Team NVIDIA\n\nMicrosoft Teams Meeting\nJoin the meeting now: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxNDFh%40thread.v2/0?context=%7b%22Tid%22%3a%2243083d15-7273-40c1-b7db-39efd9ccc17a%22%2c%22Oid%22%3a%223e5863c5-26ea-489e-a546-cdc43df532ed%22%7d\n\nMeeting ID: 288 976 487 014 3\nPasscode: 6oG2uK2A\n\nDial in by phone:\n+1 949-570-1120,,369799951# United States, Irvine\nPhone conference ID: 369 799 951#\n\nJoin on a video conferencing device:\nTenant key: teams@vc.nvidia.com\nVideo ID: 114 238 807 7\nMore info: https://pexip.me/teams/vc.nvidia.com/1142388077
+LOCATION:Microsoft Teams
+URL:https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUwNTIxYmQtNGJmZC00MDA1LTkzN2MtYmFmMzJjZWUxNDFh%40thread.v2/0?context=%7b%22Tid%22%3a%2243083d15-7273-40c1-b7db-39efd9ccc17a%22%2c%22Oid%22%3a%223e5863c5-26ea-489e-a546-cdc43df532ed%22%7d
+END:VEVENT
+END:VCALENDAR
