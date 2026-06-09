@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/icon.png" alt="Jetson AI Research Lab Call" width="160">
+</p>
+
 # office-hours
 
 If you’re a robotics enthusiast or computer vision engineer who loves tinkering with edge devices, the Jetson AI Research Lab Call is the community space you’ve been looking for.
